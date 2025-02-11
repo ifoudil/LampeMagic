@@ -1,7 +1,7 @@
 # Projet Lampe Connectée
 
 ## Description
-Une application permettant de contrôler et programmer une lampe connectée capable de changer de couleur. La lampe est simulée localement avant d’être compatible avec une application réseau fournie.
+Une application développée avec Android Studio en Java permettant de contrôler et programmer une lampe connectée capable de changer de couleur. La lampe est simulée localement avant d’être compatible avec une application réseau fournie.
 
 ## Fonctionnalités
 - Contrôle de la lampe (allumage, extinction, changement de couleur)
